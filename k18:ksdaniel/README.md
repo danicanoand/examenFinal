@@ -16,5 +16,5 @@ Les característiques principals són:
 
 Execució:
 ```
-docker run --rm --name ksdaniel.hisxdaniel.org -h ksdaniel.hisxdaniel.org --net mynet -s danicano/k18:ksdaniel
+docker run --rm --name ksdaniel.hisxdaniel.org -h ksdaniel.hisxdaniel.org --net mynet -d danicano/k18:ksdaniel
 ```
